@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Badri Tamang</h1>
 <h3 align="center">Technology Enthusiast</h3>
 
-- 🔭 I’m currently working on **Finance**
+- 🔭 I’m currently working on **Freelance**
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **AWS Certified Solution Architect**
 
 - 📝 I regularly write articles on [https://techloverdude.blogspot.com/](https://techloverdude.blogspot.com/)
 
-- 💬 Ask me about **Html, CSS, Django**
+- 💬 Ask me about **CyberSecurity, Cloud Computing, Hardware/Network, Linux, MIS & Government IT Systems**
 
 - 📫 How to reach me **tamangbadrirch@gmail.com**
 
