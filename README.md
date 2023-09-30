@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AWS Certified Solution Architect**
 
-- 📝 I regularly write articles on [(https://www.badritamang.com.np/blog.html)](https://techloverdude.blogspot.com/)
+- 📝 I regularly write articles on [(https://www.badritamang.com.np/blog.html)](https://www.badritamang.com.np/blog.html)
 
 - 💬 Ask me about **CyberSecurity, Cloud Computing, Hardware/Network, Linux, MIS & Government IT Systems**
 
