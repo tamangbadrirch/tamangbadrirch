@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [(https://www.badritamang.com.np/blog.html)](https://www.badritamang.com.np/blog.html)
 
-- 💬 Ask me about **CyberSecurity, Cloud Computing, Hardware/Network, Linux, MIS & Government IT Systems**
+- 💬 Ask me about **CyberSecurity, Cloud Computing, Software Development, Linux, MIS & Government IT Systems & Tech Support**
 
 - 📫 How to reach me **tamangbadrirch@gmail.com**
 
