@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Freelance**
 
-- 🌱 I’m currently learning **AWS Certified Solution Architect & CEH V12**
+- 🌱 I’m currently learning **AWS Certified Solution Architect & CISSP**
 
 - 📝 I regularly write articles on [(https://www.badritamang.com.np/blog.html)](https://www.badritamang.com.np/blog.html)
 
