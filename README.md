@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Freelance**
 
-- 🌱 I’m currently learning **AWS Certified Solution Architect & CISSP**
+- 🌱 I’m currently learning **OSCP+ & CISSP**
 
 - 📝 I regularly write articles on [(https://www.badritamang.com.np/blog.html)](https://www.badritamang.com.np/blog.html)
 
